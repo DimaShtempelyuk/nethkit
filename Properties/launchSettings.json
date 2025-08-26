@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "nethkit (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "nethkit (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
